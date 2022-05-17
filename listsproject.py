@@ -4,7 +4,7 @@ This_list = []
 #Prints blank list
 print(This_list) 
 
-#Prints blank list
+#Adds 'S3' to list
 This_list.append("S3") 
 
 #Adds 'Lambda' to list
