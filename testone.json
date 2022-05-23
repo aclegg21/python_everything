@@ -1,0 +1,42 @@
+[
+    {
+        "Name_of_Game": "Mario Party 1",
+        "Console": "Nintendo 64"
+    },
+    {
+        "Name_of_Game": "Mario Kart",
+        "Console": "Nintendo 64"
+    },
+    {
+        "Name_of_Game": "Super Mario Strikers",
+        "Console": "Nintendo Switch"
+    },
+    {
+        "Name_of_Game": "Halo",
+        "Console": "Xbox 360"
+    },
+    {
+        "Name_of_Game": "FIFA 19",
+        "Console": "Xbox 360"
+    },
+    {
+        "Name_of_Game": "Wii Sports",
+        "Console": "Nintendo Wii"
+    },
+    {
+        "Name_of_Game": "Animal Crossing",
+        "Console": "Nintendo Switch"
+    },
+    {
+        "Name_of_Game": "Rock Band",
+        "Console": "Xbox 360"
+    },
+    {
+        "Name_of_Game": "Guitar Hero",
+        "Console": "Xbox 360"
+    },
+    {
+        "Name_of_Game": "Donkey Kong",
+        "Console": "SNES"
+    }
+]
