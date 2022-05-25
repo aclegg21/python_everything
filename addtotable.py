@@ -1,6 +1,6 @@
 import boto3
 import json
-
+#need more in-line commenting
 dynamodb = boto3.resource('dynamodb', region_name='us-east-1')
 
 table = dynamodb.Table('week15_project')
